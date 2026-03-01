@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/zansxart/zansxart/main/assets/banner.gif" width="95%" />
-</p>
-
 <br/>
 
 <h1 align="center">Hi, I'm Izan 👋</h1>
@@ -15,6 +11,9 @@ Digital Creative • Full-Stack Developer • Bot Architect
 </p>
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/zansxart/zansxart/main/assets/banner.gif" width="85%" />
+</p>
 
 ### 🧠 About
 
