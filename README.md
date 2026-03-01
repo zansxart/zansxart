@@ -12,7 +12,7 @@ Digital Creative • Full-Stack Developer • Bot Architect
 
 ---
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zansxart/zansxart/main/assets/banner.gif" width="85%" />
+  <img src="https://raw.githubusercontent.com/zansxart/zansxart/main/assets/banner.gif" width="65%" />
 </p>
 
 ### 🧠 About
