@@ -60,5 +60,15 @@ Clean code. Stable systems. Long-term vision.
 ---
 
 <p align="center">
-🌍 https://zansxart.me • 📸 https://instagram.com/zansxart • 🎵 https://tiktok.com/@zansxart
+<a href="https://zansxart.me">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="25"/>
+</a>
+
+<a href="https://instagram.com/zansxart">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="25"/>
+</a>
+
+<a href="https://tiktok.com/@zansxart">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tiktok.svg" width="25"/>
+</a>
 </p>
