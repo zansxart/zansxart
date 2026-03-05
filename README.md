@@ -37,6 +37,7 @@ Clean code. Stable systems. Long-term vision.
 
 
 <br clear="both"/>
+<br><br><br><br><br><br><br>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,php,python,html,css,mysql,mongodb,git,linux" />
 </p>
@@ -52,7 +53,7 @@ Clean code. Stable systems. Long-term vision.
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=zansxart&show_icons=true&theme=transparent&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=zansxart&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zansxart&layout=compact&theme=transparent&hide_border=true" height="160"/>
 </p>
 
