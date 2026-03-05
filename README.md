@@ -34,18 +34,14 @@ Clean code. Stable systems. Long-term vision.
 ### 🛠 Tech Stack
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,php,python,html,css,mysql,mongodb,git,linux" />
-
 </p>
-
-<br/>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-<img src="https://img.shields.io/badge/Premiere%20Pro-2B2B80?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
-<img src="https://img.shields.io/badge/Lightroom-001E36?style=for-the-badge&logo=adobelightroom&logoColor=white"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="45" style="margin:10px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" width="45" style="margin:10px"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/adobelightroom.svg" width="45" style="margin:10px"/>
 
 </p>
 
