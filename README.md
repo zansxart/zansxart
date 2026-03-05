@@ -1,5 +1,3 @@
-<br/>
-
 <h1 align="center">Hi, I'm Izan 👋</h1>
 
 <p align="center">
@@ -7,34 +5,41 @@ Digital Creative • Full-Stack Developer • Bot Architect
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=444444&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Systems;WhatsApp+%26+Telegram+Bots;AI+Automation+Solutions" />
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=444444&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Systems;WhatsApp+%26+Telegram+Bots;AI+Automation+Solutions" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=zansxart&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zansxart/zansxart/main/assets/banner.gif" width="65%" />
+<img src="https://raw.githubusercontent.com/zansxart/zansxart/main/assets/banner.gif" width="65%" />
 </p>
+
+---
 
 ### 🧠 About
 
-Self-driven developer focused on building modern web systems, scalable bot architecture, and AI-powered automation tools.  
+Self-driven developer focused on building modern web systems, scalable bot architecture, and AI-powered automation tools.
 Clean code. Stable systems. Long-term vision.
 
 ---
 
 ### 🚀 Current Focus
 
-- ⚡ Advanced WhatsApp Bot Systems  
-- 🧠 AI Integration & LLM Deployment  
-- 🌐 Full-Stack Web Applications  
-- 🎨 Creative Digital Production  
+* ⚡ Advanced WhatsApp Bot Systems
+* 🧠 AI Integration & LLM Deployment
+* 🌐 Full-Stack Web Applications
+* 🎨 Creative Digital Production
 
 ---
 
 ### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,php,python,html,css,mysql,mongodb,git,linux" />
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,php,python,html,css,mysql,mongodb,git,linux" />
 </p>
 
 ---
@@ -42,11 +47,12 @@ Clean code. Stable systems. Long-term vision.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zansxart&show_icons=true&theme=transparent&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=zansxart&show_icons=true&theme=transparent&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zansxart&layout=compact&theme=transparent&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=zansxart&theme=transparent&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=zansxart&theme=transparent&hide_border=true"/>
 </p>
 
 ---
@@ -54,21 +60,31 @@ Clean code. Stable systems. Long-term vision.
 ### 🐍 Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://zansxart.me">
+<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/zansxart">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://tiktok.com/@zansxart">
+<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
 <p align="center">
-<a href="https://zansxart.me">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="25"/>
-</a>
-
-<a href="https://instagram.com/zansxart">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="25"/>
-</a>
-
-<a href="https://tiktok.com/@zansxart">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tiktok.svg" width="25"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=120&section=footer"/>
 </p>
