@@ -23,7 +23,7 @@ Self-driven developer focused on building modern web systems, scalable bot archi
 Clean code. Stable systems. Long-term vision.
 
 
-<img align="left" src="https://raw.githubusercontent.com/zansxart/zansxart/main/assets/banner3.gif" width="160" />
+<img align="left" src="https://raw.githubusercontent.com/zansxart/zansxart/main/assets/banner3.gif" width="300" />
 
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="40" height="1" />
 
