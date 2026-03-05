@@ -34,10 +34,9 @@ Clean code. Stable systems. Long-term vision.
 - 🌐 Full-Stack Web Applications
 - 🎨 Creative Digital Production
 
+
+
 <br clear="both"/>
-
-
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,php,python,html,css,mysql,mongodb,git,linux" />
 </p>
