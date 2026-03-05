@@ -12,20 +12,16 @@ Digital Creative • Full-Stack Developer • Bot Architect
 <img src="https://komarev.com/ghpvc/?username=zansxart&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
----
-
 <p align="center">
 <img src="https://raw.githubusercontent.com/zansxart/zansxart/main/assets/banner.gif" width="65%" />
 </p>
 
----
 
 ### 🧠 About
 
 Self-driven developer focused on building modern web systems, scalable bot architecture, and AI-powered automation tools.
 Clean code. Stable systems. Long-term vision.
 
----
 
 ### 🚀 Current Focus
 
@@ -34,7 +30,6 @@ Clean code. Stable systems. Long-term vision.
 * 🌐 Full-Stack Web Applications
 * 🎨 Creative Digital Production
 
----
 
 ### 🛠 Tech Stack
 
@@ -42,7 +37,6 @@ Clean code. Stable systems. Long-term vision.
 <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,php,python,html,css,mysql,mongodb,git,linux" />
 </p>
 
----
 
 ### 📊 GitHub Stats
 
@@ -55,7 +49,6 @@ Clean code. Stable systems. Long-term vision.
 <img src="https://github-readme-streak-stats.herokuapp.com?user=zansxart&theme=transparent&hide_border=true"/>
 </p>
 
----
 
 ### 🐍 Contributions
 
@@ -63,7 +56,6 @@ Clean code. Stable systems. Long-term vision.
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" />
 </p>
 
----
 
 ### 🌐 Connect With Me
 
@@ -83,6 +75,4 @@ Clean code. Stable systems. Long-term vision.
 
 </p>
 
----
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:222222,100:000000&height=120&section=footer"/>
