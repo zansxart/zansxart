@@ -36,6 +36,8 @@ Clean code. Stable systems. Long-term vision.
 
 <br clear="both"/>
 
+
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,php,python,html,css,mysql,mongodb,git,linux" />
 </p>
