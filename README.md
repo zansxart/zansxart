@@ -85,6 +85,4 @@ Clean code. Stable systems. Long-term vision.
 
 ---
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=120&section=footer"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b6cb7,100:182848&height=120&section=footer"/>
