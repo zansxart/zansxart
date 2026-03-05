@@ -25,7 +25,7 @@ Clean code. Stable systems. Long-term vision.
 
 ### 🚀 Current Focus
 
-<img align="right" src="https://raw.githubusercontent.com/zansxart/zansxart/main/assets/banner3.gif" width="280"/>
+<img align="right" src="https://raw.githubusercontent.com/zansxart/zansxart/main/assets/banner3.gif" width="180" style="margin-left:15px;"/>
 
 - ⚡ Advanced WhatsApp Bot Systems  
 - 🧠 AI Integration & LLM Deployment  
