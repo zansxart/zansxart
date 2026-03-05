@@ -23,26 +23,16 @@ Self-driven developer focused on building modern web systems, scalable bot archi
 Clean code. Stable systems. Long-term vision.
 
 
-<table>
-<tr>
-<td width="65%">
-
 ### 🚀 Current Focus
+
+<img align="right" src="https://raw.githubusercontent.com/zansxart/zansxart/main/assets/banner3.gif" width="230"/>
 
 - ⚡ Advanced WhatsApp Bot Systems  
 - 🧠 AI Integration & LLM Deployment  
 - 🌐 Full-Stack Web Applications  
 - 🎨 Creative Digital Production  
 
-</td>
-
-<td width="35%" align="center">
-
-<img src="https://raw.githubusercontent.com/zansxart/zansxart/main/assets/banner3.gif" width="100%" />
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 
 ### 🛠 Tech Stack
