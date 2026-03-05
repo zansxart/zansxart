@@ -26,7 +26,7 @@ Clean code. Stable systems. Long-term vision.
 ### 🚀 Current Focus
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zansxart/zansxart/main/assets/banner3.gif" width="160" />
+  <img src="https://raw.githubusercontent.com/zansxart/zansxart/main/assets/banner3.gif" width="280" />
 </p>
 
 - ⚡ Advanced WhatsApp Bot Systems  
