@@ -54,7 +54,7 @@ Clean code. Stable systems. Long-term vision.
 ### 🐍 Contributions
 
 <p align="center">
-  <img src="https://github.com/zansxart/zansxart/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" />
 </p>
 
 ---
