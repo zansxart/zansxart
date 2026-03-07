@@ -25,7 +25,7 @@ Clean code. Stable systems. Long-term vision.
 
 <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="200" height="1" />
 
-<img align="right" src="https://raw.githubusercontent.com/zansxart/zansxart/main/assets/banner3.gif" width="300" />
+<img align="right" src="https://raw.githubusercontent.com/zansxart/zansxart/main/assets/banner3.gif" width="280" />
 
 ### 🚀 Current Focus
 
@@ -34,10 +34,8 @@ Clean code. Stable systems. Long-term vision.
 - 🌐 Full-Stack Web Applications
 - 🎨 Creative Digital Production
 
-
-
 <br clear="both"/>
-<br><br><br><br><br>
+<br><br><br>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,php,python,html,css,mysql,mongodb,git,linux" />
 </p>
